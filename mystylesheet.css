@@ -1,0 +1,47 @@
+#mainPage {
+    width: 100%;
+    background-color: hsl(47, 88%, 63%);
+    padding: 15% 0;
+}
+#previewCard {
+    width: 30%;
+    margin: auto;
+    background-color: hsl(0, 0%, 100%);
+    padding: 2%;
+    border-radius: 20px;
+    font-family: 'Figtree', sans-serif;
+    border: 1.5px solid #000000;
+    box-shadow: 10px 10px;
+}
+#previewCard img {
+    width: 100%;
+    border-radius: 10px;
+}
+#learning {
+    background-color: hsl(47, 88%, 63%);
+    width: 25%;
+    text-align: center;
+    font-size: large;
+    height: 20px;
+    padding:5px 0;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+h5 {
+    margin: 2px 0;
+}
+h4 {
+    color: hsl(0, 0%, 7%);
+}
+h2 {
+    font-weight: 800;
+    cursor: pointer;
+}
+h2:hover {
+    color:hsl(47, 88%, 63%)
+}
+p {
+    font-weight: 500;
+    font-size: 16px;
+    color: hsl(0, 0%, 50%);
+}
